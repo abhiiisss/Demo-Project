@@ -1,3 +1,4 @@
 # Demo-Project
-This is a demo project
-Author - Abhishek Sharma
+This is a demo project.
+<br>
+Author - Abhishek Sharma.
